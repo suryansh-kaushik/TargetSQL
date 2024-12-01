@@ -1,6 +1,7 @@
 🚀 Welcome to the Target Data Analysis project! 🎉
 
 As a data scientist at Target, you've been given the exciting opportunity to analyze 100k orders from 2016 to 2018 made at Target in Brazil. 🌎🇧🇷
+Detailed Report here : https://docs.google.com/document/d/1FVIGKgYIQO3DqusPxw7ktib9NW-U6CtEPsCQZuVCZRA/edit?usp=sharing
 
 📚 The dataset is available in 8 csv files:
 
